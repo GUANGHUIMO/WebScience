@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a292b18-49a2-42ed-ba28-a9a92ecb5d67" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YN6IMxj803xonFHGNcfVxMEWgL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IT_company_championship" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.drawing">
+    <configuration name="Twitter Crawler" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Twitter Crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Twitter Crawler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Twitter Crawler/Twitter Crawler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Twitter Data analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Twitter Crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Twitter Crawler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Twitter Crawler/Twitter Data analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="drawing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Twitter Crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Twitter Crawler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Twitter Crawler/drawing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="emotion_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Twitter Crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Twitter Crawler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Twitter Crawler/emotion_analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Twitter Crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Twitter Crawler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Twitter Crawler/test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.drawing" />
+        <item itemvalue="Python.emotion_analysis" />
+        <item itemvalue="Python.Twitter Data analysis" />
+        <item itemvalue="Python.Twitter Crawler" />
+        <item itemvalue="Python.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a292b18-49a2-42ed-ba28-a9a92ecb5d67" name="Default Changelist" comment="" />
+      <created>1582770624076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582770624076</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="190" y="93" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583458789969">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="190" y="93" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1463.874@0.0.1463.874" timestamp="1583458789969" />
+    <state x="93" y="93" width="1277" height="688" key="DiffContextDialog" timestamp="1583789240461">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="93" y="93" width="1277" height="688" key="DiffContextDialog/0.0.1463.874@0.0.1463.874" timestamp="1583789240461" />
+    <state x="518" y="195" key="FileChooserDialogImpl" timestamp="1584371054716">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="518" y="195" key="FileChooserDialogImpl/0.0.1463.874@0.0.1463.874" timestamp="1584371054716" />
+    <state width="1442" height="172" key="GridCell.Tab.0.bottom" timestamp="1584572593585">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1442" height="172" key="GridCell.Tab.0.bottom/0.0.1463.874@0.0.1463.874" timestamp="1584572593585" />
+    <state width="1442" height="172" key="GridCell.Tab.0.center" timestamp="1584572593584">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1442" height="172" key="GridCell.Tab.0.center/0.0.1463.874@0.0.1463.874" timestamp="1584572593584" />
+    <state width="1442" height="172" key="GridCell.Tab.0.left" timestamp="1584572593584">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1442" height="172" key="GridCell.Tab.0.left/0.0.1463.874@0.0.1463.874" timestamp="1584572593584" />
+    <state width="1442" height="172" key="GridCell.Tab.0.right" timestamp="1584572593584">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1442" height="172" key="GridCell.Tab.0.right/0.0.1463.874@0.0.1463.874" timestamp="1584572593584" />
+    <state width="1442" height="279" key="GridCell.Tab.1.bottom" timestamp="1584196615835">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1442" height="279" key="GridCell.Tab.1.bottom/0.0.1463.874@0.0.1463.874" timestamp="1584196615835" />
+    <state width="1442" height="279" key="GridCell.Tab.1.center" timestamp="1584196615835">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1442" height="279" key="GridCell.Tab.1.center/0.0.1463.874@0.0.1463.874" timestamp="1584196615835" />
+    <state width="1442" height="279" key="GridCell.Tab.1.left" timestamp="1584196615835">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1442" height="279" key="GridCell.Tab.1.left/0.0.1463.874@0.0.1463.874" timestamp="1584196615835" />
+    <state width="1442" height="279" key="GridCell.Tab.1.right" timestamp="1584196615835">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1442" height="279" key="GridCell.Tab.1.right/0.0.1463.874@0.0.1463.874" timestamp="1584196615835" />
+    <state x="190" y="110" key="SettingsEditor" timestamp="1583534642427">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="190" y="110" key="SettingsEditor/0.0.1463.874@0.0.1463.874" timestamp="1583534642427" />
+    <state x="759" y="189" width="672" height="678" key="search.everywhere.popup" timestamp="1584362227648">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="759" y="189" width="672" height="678" key="search.everywhere.popup/0.0.1463.874@0.0.1463.874" timestamp="1584362227648" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Twitter Crawler/Twitter Data analysis.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
